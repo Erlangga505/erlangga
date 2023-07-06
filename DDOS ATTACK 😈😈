@@ -1,0 +1,13 @@
+You must use Python 3.9 or higher
+
+git clone https://github.com/HyukIsBack/KARMA-DDoS.git WAJIB INSTALL
+
+Install Python3 modules
+ - pip3 install -r requirements.txt INI JUGA
+or  pip install -r requirements.>INI WAJIB INSTALL
+Install Chrome (or update it lastest version) INI GA USAH INS
+ - wget https://dl.google.com/linux/direct/google-chrome-stable_curre> WAJIB
+ - apt-get install ./google-chrome-stable_current_amd64.deb WAJIB INSTALL
+
+OR
+ - python3 setup.py BUAT JALANIN TOLS DDOS 😈😈
